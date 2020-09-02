@@ -97,8 +97,8 @@ jalan("\033[1;92m |_| ")
 
 
 
-CorrectUsername = "rana"
-CorrectPassword = "rana"
+CorrectUsername = "Lofar"
+CorrectPassword = "302"
 loop = 'true'
 while (loop == 'true'):
     username = raw_input("\033[1;91m📋 \x1b[1;95mTool Username \x1b[1;91m»» \x1b[1;91m")
